@@ -1,0 +1,5 @@
+{
+  "name": "AI Timetable Generator",
+  "description": "An intelligent timetable generator for primary school classes (Grades 1-5). Users input the number of classes per grade and a concurrency limit, and the AI generates a balanced weekly schedule.",
+  "requestFramePermissions": []
+}
